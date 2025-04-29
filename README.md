@@ -1,12 +1,13 @@
-# Hi 👋, I'm Akash Duddekunta
+# Hi 👋, I'm <a href="https://bento.me/akashduddekunta">Akash Duddekunta</a>
 
 ## About
-- 🎓 MCA student at Madanapalle Institute of Technology and Science (JNTUA affiliated).
-- 🎓 BCA graduate from P.V.K.K Degree College (Sri Krishnadevaraya University affiliated).
-- 💻 Full-Stack Developer and Machine Learning Enthusiast.
-- 🛠️ Focused on scalable systems, intelligent automation, and real-world problem solving.
+- 💻 I'm a Full-Stack Developer with a knack for building intelligent applications.
+- 📚 Currently pursuing MCA while crafting SaaS solutions and AI-powered tools.
+- ⚙️ I build systems that speak regional languages, generate captions, and streamline campus operations.
+- 👨‍🏫 Led a coding club, mentored juniors, and organized events that boosted peer engagement by over 50%.
+- 🚀 I'm on a mission to make AI more accessible for everyone.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&color=00ADEF&vCenter=true&random=false&width=450&lines=Full+Stack+Developer;AI%2FML+Practitioner;SaaS+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&color=00ADEF&width=600&left=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer;ML+Engineer;SaaS+Builder)](https://git.io/typing-svg)
 
 ---
 
