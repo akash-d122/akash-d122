@@ -15,7 +15,7 @@
 
 ### PromptLingo
 A SaaS platform enabling users to convert regional language inputs into high-quality English prompts for large language models.  
-- **Technologies:** Next.js, Tailwind CSS, Firebase, GPT-based API  
+- **Technologies:** Next.js, React.js, Tailwind CSS, Firebase, GPT-based API  
 - **Features:** Multilingual input handling, real-time prompt optimization, authentication system  
 - **Outcome:** Built an MVP using free-tier tools to enhance AI accessibility for non-English speakers.
 
