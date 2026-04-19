@@ -1,67 +1,89 @@
-# Hi 👋, I'm <a href="https://bento.me/akashduddekunta">Akash Duddekunta</a>
+# Hi 👋, I'm <a href="https://bento.me/akashduddekunta">Akash D</a>
 
 ## About
-- 💻 I'm a Full-Stack Developer with a knack for building intelligent applications.
-- 📚 Currently pursuing MCA while crafting SaaS solutions and AI-powered tools.
-- ⚙️ I build systems that speak regional languages, generate captions, and streamline campus operations.
-- 👨‍🏫 Led a coding club, mentored juniors, and organized events that boosted peer engagement by over 50%.
-- 🚀 I'm on a mission to make AI more accessible for everyone.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&color=00ADEF&width=600&left=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer;ML+Engineer;SaaS+Builder)](https://git.io/typing-svg)
+Backend Engineer → Building Agentic AI Systems  
+
+I work on production database systems (PostgreSQL, MySQL) focusing on performance, reliability, and real-world debugging.
+
+Currently building AI systems from scratch to understand how they actually work under the hood.
+
+---
+
+## What I'm Working On
+
+- Building RAG (Retrieval-Augmented Generation) systems from scratch  
+- Implementing vector search (embeddings + cosine similarity)  
+- Designing agentic workflows with decision + validation layers  
+- Exploring how LLMs behave in real systems (failures > demos)
+
+---
+
+## Current Focus
+
+- Retrieval → Ranking → Generation → Validation pipelines  
+- Reducing hallucination using evidence-based validation  
+- Understanding where AI systems break and how to fix them  
 
 ---
 
 ## Projects
 
 ### PromptLingo
-A SaaS platform enabling users to convert regional language inputs into high-quality English prompts for large language models.  
-- **Technologies:** Next.js, React.js, Tailwind CSS, Firebase, GPT-based API  
-- **Features:** Multilingual input handling, real-time prompt optimization, authentication system  
-- **Outcome:** Built an MVP using free-tier tools to enhance AI accessibility for non-English speakers.
+SaaS platform that converts regional language input into structured English prompts for LLMs  
 
-### Caption Generator
-An AI-driven application that generates descriptive captions for images by integrating Vision Transformers with large language models.  
-- **Technologies:** PyTorch, Hugging Face Transformers, OpenCV  
-- **Approach:** Contrastive learning, cross-modal fusion, beam search decoding  
-- **Evaluation:** BLEU, CIDEr, METEOR, ROUGE metrics
+- Multilingual → Structured prompt generation  
+- Focus on improving real-world AI usability  
+- Built MVP using free-tier stack  
+
+---
+
+### Vector Search + RAG System (In Progress)
+Built a retrieval system from scratch without frameworks  
+
+- Manual cosine similarity implementation  
+- Top-k retrieval + threshold filtering  
+- Context-based answer generation  
+- Validation layer to reduce hallucination  
+
+**Key learning:**  
+RAG is not about calling an API  
+It’s about retrieval quality, ranking, and control  
+
+---
 
 ### No Due Form System
-A web-based clearance management system adopted by over 500 students per semester.  
-- **Technologies:** PHP, MySQL, JavaScript, HTML/CSS  
-- **Features:** Excel batch uploads, dynamic faculty mapping, secure access control  
-- **Impact:** Reduced processing time by 80%, minimized manual errors.
+Web-based clearance system used by 500+ students per semester  
+
+- Reduced manual processing time by ~80%  
+- Built secure multi-user workflow  
 
 ---
 
-## Languages and Tools:
+## Tech Stack
 
-```Programming Languages```
-
+**Languages**
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,php&theme=light)](https://skillicons.dev)
 
-```Front-End Technologies```
+**Backend & Databases**
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=light)](https://skillicons.dev)
-
-```Back-End and Databases```
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,nodejs&theme=light)](https://skillicons.dev)
-
-```AI/ML and Tools```
-
+**AI / Tools**
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vscode&theme=light)](https://skillicons.dev)
 
-```Operating Systems```
-
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=light)](https://skillicons.dev)
+**Frontend (Basic)**
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=light)](https://skillicons.dev)
 
 ---
 
-## Connect with me:
+## Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/akashduddekunta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashduddekunta" height="30" width="40" /></a>
-<a href="https://github.com/akash-d122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akash-d122" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashduddekunta" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/akash-d122" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
 </p>
-
----
 
