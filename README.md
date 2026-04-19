@@ -1,89 +1,86 @@
-# Hi 👋, I'm <a href="https://bento.me/akashduddekunta">Akash D</a>
+# Hi 👋, I'm Akash D
 
-## About
-
-Backend Engineer → Building Agentic AI Systems  
-
-I work on production database systems (PostgreSQL, MySQL) focusing on performance, reliability, and real-world debugging.
-
-Currently building AI systems from scratch to understand how they actually work under the hood.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=1000&color=00ADEF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;RAG+%7C+Vector+Search+%7C+Automation;Debugging+Real+AI+Failures" />
+</p>
 
 ---
 
-## What I'm Working On
+## 🚀 About Me
 
-- Building RAG (Retrieval-Augmented Generation) systems from scratch  
-- Implementing vector search (embeddings + cosine similarity)  
-- Designing agentic workflows with decision + validation layers  
-- Exploring how LLMs behave in real systems (failures > demos)
+Backend Engineer → Transitioning into **Agentic AI Systems**
 
----
-
-## Current Focus
-
-- Retrieval → Ranking → Generation → Validation pipelines  
-- Reducing hallucination using evidence-based validation  
-- Understanding where AI systems break and how to fix them  
+- Working on **production DB systems (PostgreSQL, MySQL)**
+- Building AI systems from scratch (no frameworks)
+- Focused on **how AI systems fail and how to fix them**
 
 ---
 
-## Projects
+## 🧠 Current Work
 
-### PromptLingo
-SaaS platform that converts regional language input into structured English prompts for LLMs  
-
-- Multilingual → Structured prompt generation  
-- Focus on improving real-world AI usability  
-- Built MVP using free-tier stack  
+- RAG pipeline (retrieval → ranking → generation → validation)
+- Vector search using embeddings + cosine similarity
+- Evidence-based validation to reduce hallucination
+- Prompt control to force extraction over guessing
 
 ---
 
-### Vector Search + RAG System (In Progress)
-Built a retrieval system from scratch without frameworks  
+## ⚙️ Highlight Project
 
-- Manual cosine similarity implementation  
-- Top-k retrieval + threshold filtering  
-- Context-based answer generation  
-- Validation layer to reduce hallucination  
+### 🔍 RAG System (From Scratch)
 
-**Key learning:**  
-RAG is not about calling an API  
-It’s about retrieval quality, ranking, and control  
+- Built without LangChain or frameworks  
+- Implemented:
+  - cosine similarity  
+  - top-k retrieval  
+  - threshold filtering  
+  - reranking logic  
+  - validation layer  
 
----
-
-### No Due Form System
-Web-based clearance system used by 500+ students per semester  
-
-- Reduced manual processing time by ~80%  
-- Built secure multi-user workflow  
+💡 Insight:
+> AI doesn’t fail at generation. It fails at retrieval and control.
 
 ---
 
-## Tech Stack
+## 📊 GitHub Stats
 
-**Languages**
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,php&theme=light)](https://skillicons.dev)
-
-**Backend & Databases**
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs&theme=light)](https://skillicons.dev)
-
-**AI / Tools**
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vscode&theme=light)](https://skillicons.dev)
-
-**Frontend (Basic)**
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=light)](https://skillicons.dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-d122&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-d122&theme=tokyonight" />
+</p>
 
 ---
 
-## Connect
+## 🧰 Tech Stack
 
-<p align="left">
-<a href="https://linkedin.com/in/akashduddekunta" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,postgres,mysql,react,nodejs,docker,git" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-d122&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/akashduddekunta">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/akash-d122" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+<a href="https://github.com/akash-d122">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
 
+---
+
+## ⚡ Philosophy
+
+> Most people build AI demos  
+> I focus on understanding why systems break  
